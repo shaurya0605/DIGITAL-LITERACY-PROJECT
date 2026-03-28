@@ -44,6 +44,6 @@ Online threats like UPI fraud are real in India. I wrote a case study on how the
 ## 🔗 Important Links
 * **Digital Literacy Quiz (Google Form):** https://docs.google.com/forms/d/e/1FAIpQLSdrKAOtXTsUj6YtNkAlB_OBbq9ndauOd1Q8AX22gwl7HjZo3w/viewform
 * 
-* **Digital Literacy Awareness Quiz (Responses)** https://docs.google.com/spreadsheets/d/1qXz8W-Z-4DfIINtas_0X4nrLW_N3COhQxFqCqrsBXzI/edit?usp=sharing
+* **Digital Literacy Awareness Quiz (Responses)** https://docs.google.com/spreadsheets/d/175r5HAA5QQ79eLFH3kiWiXbVaGfX7QFvKlmo45M9KSA/edit?resourcekey=&gid=621084865#gid=621084865
 * 
 * **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in/)
